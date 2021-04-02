@@ -31,3 +31,11 @@ commit #15 started rebase dev 2 commit 2
 commit #15 This is from dev 2 making a bug fix change
 
 commit #15 dev 1 working on bugfix
+
+commit #16 squash local commit 1
+
+commit #17 squash local commit 2
+
+commit #18 squash local commit 3
+
+commit #19 squash local commit 4
